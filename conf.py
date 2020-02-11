@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Nick Po"  # (translatable)
 BLOG_TITLE = "Programmer's Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://nickpo.github.io/"
+SITE_URL = "https://nickpo.github.io/blog/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nickpo.github.io/"
