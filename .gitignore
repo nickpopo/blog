@@ -5,3 +5,4 @@ output
 
 # Virtual environment
 venv
+.vscode
