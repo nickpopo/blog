@@ -1,4 +1,4 @@
-Sitemap: https://nickpo.github.io/blog/sitemapindex.xml
+Sitemap: https://nickpopo.github.io/blog/sitemapindex.xml
 
 User-Agent: *
-Host: nickpo.github.io
+Host: nickpopo.github.io
